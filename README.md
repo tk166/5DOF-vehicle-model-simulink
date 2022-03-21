@@ -1,6 +1,6 @@
 # 5DOF-vehicle-model-simulink
 An vehicle modle of simulink that can be used for HIL test or driving simulators in real-time
-
+![Simulink Model](https://github.com/tk166/5DOF-vehicle-model-simulink/blob/main/01.png)
 
 ## 输入信息：
 1. sta  输入的是EPS系统下端转向器小齿轮的转角，单位为deg，除以转向传动比即为前轮的转角大小。
